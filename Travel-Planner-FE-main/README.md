@@ -1,5 +1,7 @@
 # TRAVEL PLANNER APP - FRONTEND APPLICATION
 
+click to direct view ----> [ https://mern-travel-tourism-app.onrender.com/  ]
+
 ## WEBSITE : https://mern-travel-tourism-app.onrender.com/
 - This is the capstone project which defines travel planner app made up of FrontEnd using ReactJS.
 - It consist of pages such as Home, Package, About, Login & SignUp page.
